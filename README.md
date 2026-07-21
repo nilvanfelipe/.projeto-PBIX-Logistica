@@ -1,6 +1,6 @@
-# Logística Xperiun — Dashboard Power BI
+# Painel 20 - Logística XperiunLog — Dashboard Power BI
 
-## Descrição
+## Descrição:
 
 Painel Power BI para monitoramento e insights de logística do cliente **XperiunLog**.
 
