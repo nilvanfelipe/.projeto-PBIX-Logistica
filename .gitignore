@@ -1,0 +1,29 @@
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Arquivos temporários e backups
+*~
+~$*
+*.tmp
+*.log
+*.bak
+*.backup
+*.swp
+
+# Power BI / arquivos de backup temporários
+*.pbix~
+*_backup.pbix
+*.pbix.autosave
+
+# IDEs e editores
+.vscode/
+.idea/
+*.suo
+*.user
+*.njsproj
+*.sln
+*.vs/
